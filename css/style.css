@@ -1,0 +1,26 @@
+body {
+    background-color: #263840;
+    background-image: url("../resource/rainforest.jpg");
+    background-position: center top;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.hide-content {
+    opacity: 0;
+}
+
+h1 {
+    color: ghostwhite;
+}
+
+.input-styling {
+    margin-right: 0;
+    padding-right: 0;
+}
+
+.btn-default {
+    background-color: #FBFBF2;
+    color: #A6A2A2;
+}
