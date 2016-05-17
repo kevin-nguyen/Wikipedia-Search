@@ -4,6 +4,7 @@ body {
     background-position: center top;
     background-size: cover;
     background-repeat: no-repeat;
+    background-attachment: fixed;
     height: 100vh;
 }
 
@@ -23,4 +24,13 @@ h1 {
 .btn-default {
     background-color: #FBFBF2;
     color: #A6A2A2;
+}
+
+.results-styling {
+    color: white;
+    background-color: rgba(0, 0, 0, .7);
+    margin-bottom: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 10px;
 }
